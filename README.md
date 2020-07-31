@@ -86,6 +86,7 @@ At last, we can obtain the BigEarthNet-Sen1 dataset based on [the names of BigEa
 Left is the Sentinel-2 image, Right is the RGB visualization of Sentinel-1 VVVH bands
 
 ![alt text](./Selection_004.png)
+![alt text](./Selection_005.png)
 
 ## Acknowledgement
 
